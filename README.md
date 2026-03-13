@@ -1,21 +1,21 @@
 # Loan-Default-Analysis
 Loan Default Risk Analysis Dashboard – SQL + Power BI
 
-Project Summary
+##Project Summary
 
 This project analyzes loan portfolio risk and borrower behavior using SQL and Power BI. The objective is to identify patterns in borrower demographics, credit risk, and loan exposure to support risk monitoring and decision making.
 
-Technologies Used
+## Technologies Used
 
-SQL (MySQL)
+**SQL (MySQL)**
 
-Power BI
+**Power BI**
 
-Data Modeling
+**Data Modeling**
 
-DAX
+**DAX**
 
-Data Visualization
+**Data Visualization**
 
 Data Processing
 
@@ -40,11 +40,11 @@ dim_loan_type
 dim_region
 dim_risk
 
-Power BI Dashboard
+## Power BI Dashboard
 
 The dashboard contains two analytical pages.
 
-Page 1 — Executive Risk Overview
+### Page 1 — Executive Risk Overview
 
 Total Loan Amount
 
@@ -66,7 +66,7 @@ Default Exposure by Loan Type
 
 Risk Score Analysis
 
-Page 2 — Borrower Analytics & Portfolio Exposure
+### Page 2 — Borrower Analytics & Portfolio Exposure
 
 Borrower Gender Distribution
 
@@ -84,7 +84,7 @@ Borrower Risk Profile
 
 Interest Rate by Risk Category
 
-Key Insights
+## Key Insights
 
 High risk loans are concentrated in specific borrower segments
 

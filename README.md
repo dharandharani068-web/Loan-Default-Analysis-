@@ -17,7 +17,7 @@ This project analyzes loan portfolio risk and borrower behavior using SQL and Po
 
 **Data Visualization**
 
-Data Processing
+## Data Processing
 
 Loaded dataset into MySQL using INFILE method
 
@@ -25,15 +25,15 @@ Cleaned and transformed data in SQL
 
 Created calculated columns and derived metrics
 
-Built a Star Schema Data Model
+**Built a Star Schema Data Model**
 
-Data Model
+**Data Model**
 
-Fact Table
+**Fact Table**
 
-fact_loan
+**fact_loan**
 
-Dimension Tables
+**Dimension Tables**
 
 dim_customer
 dim_loan_type
